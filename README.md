@@ -7,7 +7,7 @@ This rendition of Pong was made to show self-sufficiency in code production. I d
 
 ## Quick Launch and How to Play 
 
-To play the game, unzip the folder double click the:
+To play the game, unzip the folder and double click the:
 - `Pong.exe` file for Windows.
 - `Pong-x.x_Linux_x86_64.x86_64` file for Linux.
     - You may have to run `chmod +x Pong*.x86_64` for the game to open.
