@@ -48,5 +48,9 @@ You should be able to run the executable at any time by clicking it in your file
 1. Go to the [Unity Download Page](https://unity.com/download) and download the installer for your operating system.
 2. Run the installer and follow the prompts on screen to install Unity.
 
-For Linux, the instructions are different. Unity is only officially suppported on Ubuntu but can be run on other distros.
-Instructions for how to install Unity on Ubuntu can be found [here](https://docs.unity3d.com/hub/manual/InstallHub.html#install-hub-linux)
+If you run into compatability issues, try downloading the specific version used to make this project:
+    - Unity Version: 6.3 LTS
+The Unity Hub installer is not version specific. To install a specific version of Unity, follow the instructions located [here](https://docs.unity3d.com/hub/manual/AddEditor.html).
+
+For Linux, the installation instructions are different. Unity is only officially suppported on Ubuntu but can be run on other distros.
+Instructions for how to install Unity on Ubuntu can be found [here](https://docs.unity3d.com/hub/manual/InstallHub.html#install-hub-linux).
